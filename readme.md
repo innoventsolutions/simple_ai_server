@@ -4,6 +4,8 @@ This is a lightweight vector search server sample that populates a chroma databa
 
 Run with *fastapi run sbert_server.py*
 
+For a detailed discussion, please review the blog post A Tale of Java, LLMs, and Search found here: https://innoventsolutions.com/search-technology/a-tale-of-java-llms-and-search/
+
 ## Control Properties
 
 These properties control where files used in the load process are read from and how to index them in Chroma:
