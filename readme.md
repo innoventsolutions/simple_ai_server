@@ -2,8 +2,6 @@
 
 This is a lightweight vector search server sample that populates a chroma database from a set of \*.json files in a folder and provides an endpoint to search for document ids and scores based on query text.
 
-You will need an API key from an OpenAI Project to be set in the OPENAI_API_KEY environment variable or added to the code.
-
 Run with *fastapi run sbert_server.py*
 
 ## Control Properties
